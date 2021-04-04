@@ -3,4 +3,4 @@ ___
 IEEE International Conference on Multimedia and Expo (ICME) 2021
 
 
-This is an implementation of DSL-RL (Deep Self-attention Recurrent summarization network with Reinforcement Learning)
+This is an implementation of DSR-RL (Deep Self-attention Recurrent summarization network with Reinforcement Learning)
