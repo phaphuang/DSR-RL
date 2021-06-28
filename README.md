@@ -3,6 +3,7 @@ ___
 IEEE International Conference on Multimedia and Expo (ICME) 2021
 
 
+<<<<<<< HEAD
 This is an implementation of DSR-RL (Deep Self-attention Recurrent summarization network with Reinforcement Learning).
 
 ## Datasets Preparation
@@ -101,3 +102,6 @@ If this code is useful for you, please consider citing the paper as following de
 This work is heavily based on [VASNet](https://github.com/ok1zjf/VASNet) and [DR-DSN](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce). Thanks them for their great work!
 
 <em>DSR-RL</em> is freely available for non-commercial use. Don't hesitate to drop e-mail if you have any problem.
+=======
+This is an implementation of DSR-RL (Deep Self-attention Recurrent summarization network with Reinforcement Learning)
+>>>>>>> 5d52cfcb889a874c0cac8acc3fd936e79daf7a73
