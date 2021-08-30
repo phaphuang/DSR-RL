@@ -52,7 +52,7 @@ DSR-RL
 ### Training Model in Canonical Mode
 #### SumMe
 ```
-python main.py -d datasets/eccv16_dataset_summe_google_pool5.h5 -s splits/summe_splits.json -m tvsum --gpu 0  --save-dir log/summe-split --split-id 0 --verbose --rnn-cell gru --max-epoch 50 --userscore datasets/summarizer_dataset_summe_google_pool5.h5 --save-results
+python main.py -d datasets/eccv16_dataset_summe_google_pool5.h5 -s splits/summe_splits.json -m summe --gpu 0  --save-dir log/summe-split --split-id 0 --verbose --rnn-cell gru --max-epoch 50 --userscore datasets/summarizer_dataset_summe_google_pool5.h5 --save-results
 ```
 
 #### TVSum
